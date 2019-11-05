@@ -1,0 +1,113 @@
+import groovy.json.JsonSlurper
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+final reactNativePath = '/react-native/android'
+final jscAndroidPath = '/jsc-android/dist'
+
+allprojects {
+    repositories {
+        maven {
+            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
+            url findNodeModules() + reactNativePath
+        }
+
+        maven {
+            // Android JSC is installed from npm
+            url findNodeModules() + jscAndroidPath
+        }
+
+        google()
+        jcenter()
+    }
+}
+
+final findNodeModules() {
+    final reactNativePath = 'node_modules'
+    final notFoundMessage = 'Unable to find node_modules folder. Have you run yarn from the root?'
+
+    def root = file("$rootDir")
+    if (root == null) {
+        throw new GradleException(notFoundMessage)
+    }
+
+    def reactNativeDir = new File(root, reactNativePath)
+    while (!reactNativeDir.exists()) {
+        root = root.parentFile
+        if (root == null) {
+            throw new GradleException(notFoundMessage)
+        }
+
+        reactNativeDir = new File(root, reactNativePath)
+    }
+
+    return reactNativeDir.toString()
+}
+
+ext {
+    sdkVersion = 28
+    minSdkVersion = 23
+    projectVersion = getProjectVersion()
+    projectVersionCode = Integer.parseInt(projectVersion.substring(0, projectVersion.indexOf('.')))
+    reactNativeVersion = getReactNativeVersion()
+}
+
+/**
+ * Get the React Native version from package.json
+ */
+final getReactNativeVersion() {
+    final json = new JsonSlurper()
+    final packageJsonFile = file('../package.json')
+    if (!packageJsonFile.exists()) {
+        throw new Exception('No package.json found')
+    }
+
+    final packageJson = json.parse packageJsonFile
+    def version = packageJson.dependencies."react-native"
+    if (!version) {
+        throw new Exception('No react native version found in package.json dependencies')
+    }
+
+    println "React native version: $version"
+
+    if (version.startsWith('^')) {
+        version = version.substring(1)
+    }
+
+    return version
+}
+
+/**
+ * Get the Project version from package.json
+ */
+final getProjectVersion() {
+    final json = new JsonSlurper()
+    final packageJsonFile = file('../package.json')
+    if (!packageJsonFile.exists()) {
+        throw new Exception('No package.json found')
+    }
+
+    final packageJson = json.parse packageJsonFile
+    def version = packageJson.version
+    if (!version) {
+        throw new Exception('No project version found in package.json')
+    }
+
+    println "Project version: $version"
+
+    return version
+}
