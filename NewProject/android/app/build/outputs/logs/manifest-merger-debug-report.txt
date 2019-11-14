@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ee7734349727443d608489e9073753d\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\85ea41d0bcb16467fc7815aebd254ec6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e96cb8ed6738c714f1e4236ee3f98b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\40b76d960ead385092474e5038832b02\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\b96f39b2872d6e4f2f42c3e2b46ea181\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6ebbb14cf9fd00dd92d0cd12e2ed5ff7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\8d7ab8adc6d577c9460dc61838300078\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a3cecda5e0924cabd1738e5cfada2c74\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\cfc9cfc3cd15cf6403bb42708652a533\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a5744e5a1879277e30a16216f86ce540\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d135a115c361cb634a90a2b2c190b909\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\589c477b608c68a826ade26bf7dbf160\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\39da605f7a6b477ae5e2be6da82d5ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\64afe85b22586c786d71fc645908cae0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\dff9c1d38c686011a2ad0ed6f1ad8c70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\19a18e33b6ec330cd903e9e95bc0f2ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\7a0b061c2b583fc73afa5cace79dfcdc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\25ecc9a0979f8fefcd04c051a73ab8ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6120aa2c8740cfbedb0d108984782aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\daa16b103fbfa3ae0d37ee9c9a9639fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ed62ea59579f6cf3227e1207a06ad339\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\f2c03075b546842c49b6332e2678fc3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ae47c6a90eee61ac8595803fd849390\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5284a5f96cd3543a3a1a672a0ff8d58f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdd6258a2ff38d4a4b61eebab2c2f359\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\0f686ea762703e994fb049f29055d816\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6f2fbeac5644e1d9de08b58eac709fe5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\218f0120e1758cdd5857ad73e74b3ad5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91b080daa014d09aa6b5b1312089fba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ac12b63f4236ed50774b3a38f583d904\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\13b76510bd456b5e383900122a896156\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d74628ff005a9e1d9372fe8e8703988a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\3e5ee44862ab2ca9c1cfec9706197f06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\e2fdca5a43559d29d1b41ae1cbfe74b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e88bbae4487b446ea9d2d4c2ad2004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5732089122b96aa201a8c9ec26a4f801\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ee7734349727443d608489e9073753d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ee7734349727443d608489e9073753d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d135a115c361cb634a90a2b2c190b909\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d135a115c361cb634a90a2b2c190b909\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdd6258a2ff38d4a4b61eebab2c2f359\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdd6258a2ff38d4a4b61eebab2c2f359\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.newproject.MainActivity
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ee7734349727443d608489e9073753d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ee7734349727443d608489e9073753d\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\85ea41d0bcb16467fc7815aebd254ec6\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\85ea41d0bcb16467fc7815aebd254ec6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e96cb8ed6738c714f1e4236ee3f98b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e96cb8ed6738c714f1e4236ee3f98b\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\40b76d960ead385092474e5038832b02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\40b76d960ead385092474e5038832b02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\b96f39b2872d6e4f2f42c3e2b46ea181\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\b96f39b2872d6e4f2f42c3e2b46ea181\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6ebbb14cf9fd00dd92d0cd12e2ed5ff7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6ebbb14cf9fd00dd92d0cd12e2ed5ff7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\8d7ab8adc6d577c9460dc61838300078\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\8d7ab8adc6d577c9460dc61838300078\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a3cecda5e0924cabd1738e5cfada2c74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a3cecda5e0924cabd1738e5cfada2c74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\cfc9cfc3cd15cf6403bb42708652a533\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\cfc9cfc3cd15cf6403bb42708652a533\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a5744e5a1879277e30a16216f86ce540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\a5744e5a1879277e30a16216f86ce540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d135a115c361cb634a90a2b2c190b909\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d135a115c361cb634a90a2b2c190b909\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\589c477b608c68a826ade26bf7dbf160\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\589c477b608c68a826ade26bf7dbf160\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\39da605f7a6b477ae5e2be6da82d5ad9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\39da605f7a6b477ae5e2be6da82d5ad9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\64afe85b22586c786d71fc645908cae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\64afe85b22586c786d71fc645908cae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\dff9c1d38c686011a2ad0ed6f1ad8c70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\dff9c1d38c686011a2ad0ed6f1ad8c70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\19a18e33b6ec330cd903e9e95bc0f2ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\19a18e33b6ec330cd903e9e95bc0f2ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\7a0b061c2b583fc73afa5cace79dfcdc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\7a0b061c2b583fc73afa5cace79dfcdc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\25ecc9a0979f8fefcd04c051a73ab8ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\25ecc9a0979f8fefcd04c051a73ab8ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6120aa2c8740cfbedb0d108984782aa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6120aa2c8740cfbedb0d108984782aa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\daa16b103fbfa3ae0d37ee9c9a9639fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\daa16b103fbfa3ae0d37ee9c9a9639fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ed62ea59579f6cf3227e1207a06ad339\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ed62ea59579f6cf3227e1207a06ad339\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\f2c03075b546842c49b6332e2678fc3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\f2c03075b546842c49b6332e2678fc3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ae47c6a90eee61ac8595803fd849390\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5ae47c6a90eee61ac8595803fd849390\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5284a5f96cd3543a3a1a672a0ff8d58f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5284a5f96cd3543a3a1a672a0ff8d58f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdb447ca6d0feaecaed68024c42a7242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdd6258a2ff38d4a4b61eebab2c2f359\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\fdd6258a2ff38d4a4b61eebab2c2f359\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\0f686ea762703e994fb049f29055d816\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\0f686ea762703e994fb049f29055d816\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6f2fbeac5644e1d9de08b58eac709fe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\6f2fbeac5644e1d9de08b58eac709fe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\218f0120e1758cdd5857ad73e74b3ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\218f0120e1758cdd5857ad73e74b3ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91b080daa014d09aa6b5b1312089fba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91b080daa014d09aa6b5b1312089fba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ac12b63f4236ed50774b3a38f583d904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\ac12b63f4236ed50774b3a38f583d904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\13b76510bd456b5e383900122a896156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\13b76510bd456b5e383900122a896156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d74628ff005a9e1d9372fe8e8703988a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\d74628ff005a9e1d9372fe8e8703988a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\3e5ee44862ab2ca9c1cfec9706197f06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\3e5ee44862ab2ca9c1cfec9706197f06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\e2fdca5a43559d29d1b41ae1cbfe74b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\e2fdca5a43559d29d1b41ae1cbfe74b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e88bbae4487b446ea9d2d4c2ad2004\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\91e88bbae4487b446ea9d2d4c2ad2004\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5732089122b96aa201a8c9ec26a4f801\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lkjjr\.gradle\caches\transforms-2\files-2.1\5732089122b96aa201a8c9ec26a4f801\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\lkjjr\reactNativeStudy\2019-2-reactNativeStudy\NewProject\android\app\src\debug\AndroidManifest.xml:5:22-75
