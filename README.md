@@ -4,8 +4,8 @@
 경희대학교 외대 정거장으로 들어오는 버스들의 현재위치를 받아와 멀관에서 자대로 넘어가는 이용자에게 도착 정보를 제공하는 App
 
 @ 사용 기술
-개발환경 : EXPO
-기술스택 : React Native
+개발환경 : EXPO<br>
+기술스택 : React Native<br>
 
 @ 사용 API
 https://www.data.go.kr/dataset/15000424/openapi.do?mypageFlag=Y (정류소 정보)
