@@ -10,6 +10,7 @@
 @ 사용 API<br>
 https://www.data.go.kr/dataset/15000424/openapi.do?mypageFlag=Y (정류소 정보)<br>
 https://www.data.go.kr/dataset/15000175/openapi.do?mypageFlag=Y (버스 도착 정보)<br>
+https://www.data.go.kr/dataset/15000170/openapi.do (버스 위치 정보)<br>
 
 @ 참조 링크<br>
 https://www.inflearn.com/course/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C#description (인프런으로 날씨앱 만들기)<br>
